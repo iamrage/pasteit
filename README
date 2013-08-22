@@ -1,11 +1,8 @@
 This is a super simple curl script that will paste the contents of whatever file you specify onto pastebin. I've found it very useful for various things.
 
-I find that websites that give you some silly "API" to access things you can already access via their normal website to be laughable as they limit what you can
-do and track the kinds of functionality you are able to use. Using OpenAUTH or something similar just to tweet when I can tweet just fine via a web interface is
-retarded for example. 
+I find that websites that give you some silly "API" to access things you can already access via their normal website to be laughable as they limit what you can do and track said usage. Using OpenAUTH or something similar just to tweet when I can tweet just fine via a web interface is retarded for example. 
 
-I also find the idea of an API that is NOT a userspace/kernelspace level thing to be laughable. The OS developers provide an API not some web scripters. Just call your interface 
-"arbitrary script wrapper nonsense".
+I also find the idea of an API that is NOT a userspace/kernelspace level thing to be laughable. The OS developers provide an API not some web scripters. Just call your interface "arbitrary script wrapper nonsense".
 
 I can make this script nicer etc but to be honest it does what I need it to do right now.
 
